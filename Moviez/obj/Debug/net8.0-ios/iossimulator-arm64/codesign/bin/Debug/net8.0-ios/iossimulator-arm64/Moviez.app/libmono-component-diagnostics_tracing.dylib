@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/irshad.ka/Documents/Moviez/Moviez/bin/Debug/net8.0-ios/iossimulator-arm64/Moviez.app/libmono-component-diagnostics_tracing.dylib
